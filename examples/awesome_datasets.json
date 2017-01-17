@@ -497,12 +497,12 @@
 			"Complementary Collections": {
 				"Data Packaged Core Datasets":"https://github.com/datasets/",
 				"Database of Scientific Code Contributions":"https://mozillascience.org/collaborate",
-				"DataWrangling": "Some Datasets Available on the Web <http://www.datawrangling.com/some-datasets-available-on-the-web",
-				"Inside-r": "Finding Data on the Internet <http://www.inside-r.org/howto/finding-data-internet",
-				"OpenDataMonitor": "An overview of available open data resources in Europe <http://opendatamonitor.eu",
-				"Quora": "Where can I find large datasets open to the public? <http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public",
-				"RS.io": "100+ Interesting Data Sets for Statistics <http://rs.io/100-interesting-data-sets-for-statistics/",
-				"StaTrek": "Leveraging open data to understand urban lives <http://xiaming.me/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/"
+				"DataWrangling Some Datasets Available on the Web": "http://www.datawrangling.com/some-datasets-available-on-the-web",
+				"Inside-r Finding Data on the Internet": "http://www.inside-r.org/howto/finding-data-internet",
+				"OpenDataMonitor An overview of available open data resources in Europe": "http://opendatamonitor.eu",
+				"Quora Where can I find large datasets open to the public?": "http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public",
+				"RS.io 100+ Interesting Data Sets for Statistics": "http://rs.io/100-interesting-data-sets-for-statistics/",
+				"StaTrek Leveraging open data to understand urban lives":"http://xiaming.me/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/"
 			}
 		}
 	}
